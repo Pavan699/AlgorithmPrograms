@@ -8,11 +8,13 @@ namespace AlgoritmPrograms
         {
             Console.WriteLine("Welcome To Algorithmic Programs");
 
-           /* BinarySearch.Search();
+            /* BinarySearch.Search();
 
-            InsertionSort.Insert();*/
+             InsertionSort.Insert();
 
-            BubbleSort.Bubble();
+             BubbleSort.Bubble();*/
+
+            PrimeNumbers.Prime();
         }
     }
 }
